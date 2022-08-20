@@ -12,7 +12,7 @@ body{
   width: 100%;
 }
 
-.menu-title{
+.main-title{
   text-align: center;
   margin-bottom: 30px;
 }
@@ -32,9 +32,8 @@ body{
   border: 3px solid #000;
 }
 
-.item p{
+p{
   margin-top: 18px;
-  text-align: justify;
   font-size:100%;
 }
 
@@ -48,15 +47,15 @@ body{
   border-bottom: 2px solid #000;
 }
 
-#title-one {
+#titleA {
   background-color: #D59898;
 } 
 
-#title-two{
+#titleB{
   background-color: #C14543;
 }
 
-#title-three{
+#titleC{
   background-color: #E5D198;
 }
 
