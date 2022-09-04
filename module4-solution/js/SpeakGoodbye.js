@@ -7,4 +7,4 @@
     }
      
      window.byeSpeaker = byeSpeaker;
-    })(window);
+})(window);
